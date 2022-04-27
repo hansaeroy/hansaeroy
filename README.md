@@ -2,6 +2,7 @@
 
 #### 🌱 I’m currently learning ...
 
+<hr>
 
 <h4> My tech stack 📚 </h4>
 
